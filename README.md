@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tricerarex
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on NO!
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me -_-
 
 <!---
